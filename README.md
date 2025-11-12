@@ -15,7 +15,7 @@
 
 📸 *Project Preview with Screenshots*
 
-<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Screenshots_Waits/blob/main/blob/main/assets/project_preview.jpg" width="600" alt="Screenshot Preview"/>
+<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Screenshots_Waits/blob/main/blob/main/assets/file_system_eclipse.jpg" width="600" alt="Screenshot Preview"/>
 
 </div>
 
