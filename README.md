@@ -41,7 +41,7 @@
 ## 🚀 How to Run
 
 # 1️⃣ Clone repository
-git clone https://github.com/username/OrangeHRM_Automation_Screenshots_Waits.git
+git clone https://github.com/Mankodi2003/OrangeHRM_Automation_Screenshots_Waits.git
 
 # 2️⃣ Open in Eclipse/IntelliJ
 
