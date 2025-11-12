@@ -63,6 +63,6 @@ Prasiddh Mankodi
 <div align="center">
 
 ⭐ If you like this framework, star the repo!
-Made with ❤️ and ☕ in Eclipse IDE
+Made with ❤️ and ☕ in Eclipse IDE ⭐
 
 </div>
