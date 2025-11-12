@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="OrangeHRM Simple Suite">
+    <test name="OrangeHRM Full Flow Tests">
+        <classes>
+            <class name="tests.LoginTest" />
+            <class name="tests.DashboardTest" />
+            <class name="tests.AddEmployeeTest" />
+        </classes>
+    </test>
+</suite>
